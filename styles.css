@@ -73,7 +73,7 @@ hr {
 }
 
 /* Responsive Button */
-.menu-btn {
+.menu-btn { 
   cursor: pointer;
   position: absolute;
   top: 15px;
@@ -100,10 +100,11 @@ hr {
   opacity: 0.9;
 }
 
+/* center top / cover */
 .showcase {
   width: 100%;
   height: 550px;
-  background: url("./img/principal2.jpeg") no-repeat center center/ cover;
+  background: url("./img/vitrinasCMnegocio2.jpeg") no-repeat top/ cover;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -128,11 +129,16 @@ hr {
 
 .showcase .btn {
   margin-top: 20px;
-  background-color: green;
+  background-color: black;
   border-radius: 20px;
   font-size: 15px;
-  width: 228px;
+  width: 244px;
   height: 44px;
+}
+
+.showcase .btn .telefono {
+  width: 20px;
+  height: 20px;
 }
 
 /* News Cards */
