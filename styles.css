@@ -260,6 +260,35 @@ hr {
   padding-bottom: 20px;
 }
 
+.conteiner-flotante{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.conteiner-flotante a{
+  display: block;
+}
+
+.btn-wsp{
+  background-color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  padding: 5px 10px;
+  background: #262626;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 41px;
+  margin-bottom: 20px;
+}
+
+.btn-flecha img{
+  width: 60px;
+  height: 60px;
+}
+
+
 /* Mobil */
 @media (max-width: 700px) {
   .menu-btn {
