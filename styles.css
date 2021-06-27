@@ -288,16 +288,16 @@ hr {
   height: 60px;
 }
 
-.vitrina{
+.masimagenes{
   margin-left: 25%;
   width: 50%;
 }
 
-.vitrina h1{
+.masimagenes h1{
   color: white;
 }
 
-.vitrina img{
+.masimagenes img{
   width: 100%;
   height: 400px;
 }
@@ -357,12 +357,12 @@ hr {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .vitrina{
+  .masimagenes{
     margin-left: 10%;
     width: 80%;
   }
   
-  .vitrina img{
+  .masimagenes img{
     width: 100%;
     height: 400px;
   }
@@ -387,12 +387,12 @@ hr {
     text-align: center;
   }
 
-  .vitrina{
+  .masimagenes{
     margin-left: 10%;
     width: 80%;
   }
   
-  .vitrina img{
+  .masimagenes img{
     width: 100%;
     height: 400px;
   }
